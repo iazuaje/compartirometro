@@ -17,9 +17,6 @@ obj/
 *.VC.db
 *.VC.VC.opendb
 
-# EF Core
-Migrations/*Designer.cs
-
 ############################
 # User secrets
 ############################
